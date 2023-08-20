@@ -1,0 +1,56 @@
+[
+    {
+      "title": "Nuevo Título",
+      "description": "Nueva Descripción",
+      "price": 2000,
+      "thumbnail": "",
+      "code": "NC001",
+      "stock": 50,
+      "id": 1
+    },
+    {
+      "title": "Escritorio de madera",
+      "description": "Madera",
+      "price": 3500,
+      "thumbnail": "Muebles",
+      "code": "EM001",
+      "stock": 30,
+      "id": 2
+    },
+    {
+      "title": "Campera de cuero",
+      "description": "Cuero",
+      "price": 5000,
+      "thumbnail": "Moda",
+      "code": "CC001",
+      "stock": 20,
+      "id": 3
+    },
+    {
+      "title": "Parlante Bluetooth",
+      "description": "Plástico",
+      "price": 1000,
+      "thumbnail": "Electrónica",
+      "code": "PB001",
+      "stock": 100,
+      "id": 4
+    },
+    {
+      "title": "Teclado",
+      "description": "Metal",
+      "price": 1000,
+      "thumbnail": "Electrónica",
+      "code": "PB004",
+      "stock": 100,
+      "id": 5
+    },
+    {
+      "title": "Microfono",
+      "description": "Metal",
+      "price": 1000,
+      "thumbnail": "Electrónica",
+      "code": "PB007",
+      "stock": 100,
+      "id": 6
+    }
+  ]
